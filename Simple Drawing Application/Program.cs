@@ -13,7 +13,7 @@ namespace Simple_Drawing_Application
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        {//Committing to Branch
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
