@@ -8,3 +8,13 @@ C:\Users\Arvin\source\repos\Simple Drawing Application\Simple Drawing Applicatio
 C:\Users\Arvin\source\repos\Simple Drawing Application\Simple Drawing Application\obj\Debug\Simple Drawing Application.csproj.CoreCompileInputs.cache
 C:\Users\Arvin\source\repos\Simple Drawing Application\Simple Drawing Application\obj\Debug\Simple Drawing Application.exe
 C:\Users\Arvin\source\repos\Simple Drawing Application\Simple Drawing Application\obj\Debug\Simple Drawing Application.pdb
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\bin\Debug\Simple Drawing Application.exe.config
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\bin\Debug\Simple Drawing Application.exe
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\bin\Debug\Simple Drawing Application.pdb
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\obj\Debug\Simple Drawing Application.csprojAssemblyReference.cache
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\obj\Debug\Simple_Drawing_Application.Form1.resources
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\obj\Debug\Simple_Drawing_Application.Properties.Resources.resources
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\obj\Debug\Simple Drawing Application.csproj.GenerateResource.cache
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\obj\Debug\Simple Drawing Application.csproj.CoreCompileInputs.cache
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\obj\Debug\Simple Drawing Application.exe
+D:\GitRepo\Simple Drawing Application\ProkarmaProjects\Simple Drawing Application\obj\Debug\Simple Drawing Application.pdb
