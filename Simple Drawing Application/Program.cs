@@ -13,7 +13,7 @@ namespace Simple_Drawing_Application
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        {//Added comment
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
