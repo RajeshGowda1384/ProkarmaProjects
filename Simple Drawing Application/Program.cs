@@ -11,7 +11,7 @@ namespace Simple_Drawing_Application
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]
+        [STAThread]//added line
         static void Main()//commented
         {
             Application.EnableVisualStyles();
