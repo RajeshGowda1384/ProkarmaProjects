@@ -11,9 +11,9 @@ namespace Simple_Drawing_Application
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]
-        static void Main()
-        {//Committing on my own
+        [STAThread]//added line
+        static void Main()//commented
+        {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
